@@ -73,9 +73,9 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 2. ᴛʜɪꜱ ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛꜱ ʙᴜᴛᴛᴏɴꜱ ᴡɪᴛʜ ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ ᴛʏᴘᴇ.
 3. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ
 <b>ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ:</b>
-<code>[Button Text](buttonurl:https://t.me/ghostiermas)</code>
-<b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
-<code>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</code>"""
+#<code>[Button Text](buttonurl:https://t.me/ghostiermas)</code>
+# <b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
+#<code>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</code>"""
 
     AUTOFILTER_TXT = """ʜᴇʟᴘ: <b>ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ</b>
 <b>ɴᴏᴛᴇ: Fɪʟᴇ Iɴᴅᴇx</b>
@@ -173,24 +173,6 @@ Request Again"""
 • 𝖠𝗌𝗄 𝖸𝗈𝗎𝗋 𝖬𝗈𝗏𝗂𝖾𝗌 𝖶𝗂𝗍𝗁 𝖢𝗈𝗋𝗋𝖾𝖼𝗍 𝖲𝗉𝖾𝗅𝗅𝗂𝗇𝗀
 • 𝖲𝗉𝖺𝗆𝗆𝖾𝗋𝗌 𝖲𝗍𝖺𝗒 𝖠𝗐𝖺𝗒
 • 𝖥𝖾𝖾𝗅 𝖥𝗋𝖾𝖾 𝖳𝗈 𝖱𝖾𝗉𝗈𝗋𝗍 𝖠𝗇𝗒 𝖤𝗋𝗋𝗈𝗋𝗌 𝖳𝗈 𝖠𝖽𝗆𝗂𝗇𝗌 𝗎𝗌𝗂𝗇𝗀 @admin
-
-<u>𝗥𝗲𝗾𝘂𝗲𝘀𝘁𝘀 𝗙𝗼𝗿𝗺𝗮𝘁𝘀</u>
-
-• 𝖲𝗈𝗅𝗈 2017
-• 𝖣𝗁𝗈𝗈𝗆 3 𝖧𝗂𝗇𝖽𝗂
-• 𝖪𝗎𝗋𝗎𝗉 𝖪𝖺𝗇
-• 𝖣𝖺𝗋𝗄 𝗌01
-• 𝖲𝗁𝖾 𝖧𝗎𝗅𝗄 720𝗉
-• 𝖥𝗋𝗂𝖾𝗇𝖽𝗌 𝗌03 1080𝗉
-• 𝖬𝗎𝗌𝗍 𝗋𝖾𝖺𝖽 𝗍𝗁𝗂𝗌 https://te.legra.ph/𝖯𝗈𝗐𝖾𝗋𝖾𝖽-𝖡𝗒-𝖯𝖨𝖱𝖮-12-11-2
-
-‼️𝗗𝗼𝗻𝘁 𝗮𝗱𝗱 𝘄𝗼𝗿𝗱𝘀 & 𝘀𝘆𝗺𝗯𝗼𝗹𝘀 𝗹𝗶𝗸𝗲 , . -  send link movie series 𝗲𝘁𝗰‼️"""
-
-    OWNER_INFO = """
-○ 𝖢𝗋𝖾𝖺𝗍𝗈𝗋 : <a href='https://t.me/nyagwenchar'>𝖳𝗁𝗂𝗌 𝖯𝖾𝗋𝗌𝗈𝗇</a>
-
-○ 𝖲𝗎𝗉𝗉𝗈𝗋𝗍 𝖦𝗋𝗈𝗎𝗉 : <a href='https://t.me/ghostiermas'>𝖳𝖺𝗉 𝖧𝖾𝗋𝖾</a>
-"""
 
     NORSLTS = """
 #NoResults 
